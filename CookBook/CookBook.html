@@ -1102,7 +1102,7 @@ q.addEventListener('input',function(){
     var li=document.querySelector('.toc a[href="#'+a.id+'"]');
     if(li){li.parentNode.classList.toggle('hide',!show);}
   });
-});</script><!--cookbook-editor-ui:start--><style>.recipe-edit,.recipe-panel,#cookbook-editor-tools{display:none}.recipe-panel{display:block;margin:10px 0}.recipe-panel textarea{width:100%;min-height:180px;font:inherit}.recipe-panel button{margin:6px}.recipe-body pre{white-space:pre-wrap}</style><div id="cookbook-editor-tools"><button type="button" id="cookbook-login">Log masuk pemilik</button><p id="cookbook-editor-status" role="status">Pembetulan disimpan pada GitHub; bukan dalam pelayar sahaja.</p></div><script id="cookbook-editor-client">// Embedded by pipeline.mjs, never reads/writes localStorage or cookies.
+});</script><!--cookbook-editor-ui:start--><style>.recipe-edit,.recipe-panel,#cookbook-editor-tools{display:inline-block}.recipe-panel{display:block;margin:10px 0}.recipe-panel textarea{width:100%;min-height:180px;font:inherit}.recipe-panel button{margin:6px}.recipe-body pre{white-space:pre-wrap}</style><div id="cookbook-editor-tools" class="editor-active"><button type="button" id="cookbook-login">Log masuk pemilik</button><p id="cookbook-editor-status" role="status">Pembetulan disimpan pada GitHub; bukan dalam pelayar sahaja.</p></div><script id="cookbook-editor-client">// Embedded by pipeline.mjs, never reads/writes localStorage or cookies.
 function installEditor(win){
  const backend='https://cookbook-editor.ownaseven.workers.dev',origin='https://ownaseven.github.io';
  const doc=win.document,status=doc.getElementById('cookbook-editor-status'),login=doc.getElementById('cookbook-login');
@@ -1144,4 +1144,4 @@ function installEditor(win){
  return {sessionActive:()=>!!session,logout};
 }
 
-</script><!--cookbook-editor-ui:end--></body></html>
+installEditor(window);</script><!--cookbook-editor-ui:end--></body></html>
