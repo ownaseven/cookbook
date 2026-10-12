@@ -33,7 +33,49 @@ a{color:var(--acc)}
 @media print{#q,.toc{display:none}article{border:0;page-break-inside:avoid}}</style></head><body><div class="wrap">
 <h1 class="top">Personal CookBook</h1>
 <p class="sub">16 resepi | dikemas kini 2026-10-10 14:29</p>
-<input id="q" type="search" placeholder="Cari resepi atau bahan..." autocomplete="off">
+<input id="q" type="search" placeholder="Cari resepi atau bahan..." autocomplete="off"><!--cookbook-editor-ui:start--><style>.recipe-edit,.recipe-panel,#cookbook-editor-tools{display:inline-block}.recipe-panel{display:block;margin:10px 0}.recipe-panel textarea{width:100%;min-height:180px;font:inherit}.recipe-panel button{margin:6px}.recipe-body pre{white-space:pre-wrap}</style><div id="cookbook-editor-tools" class="editor-active"><button type="button" id="cookbook-login">Log masuk pemilik</button><p id="cookbook-editor-status" role="status">Pembetulan disimpan pada GitHub; bukan dalam pelayar sahaja.</p></div><script id="cookbook-editor-client">// Embedded by pipeline.mjs, never reads/writes localStorage or cookies.
+function installEditor(win){
+ const backend='https://cookbook-editor.ownaseven.workers.dev',origin='https://ownaseven.github.io';
+ const doc=win.document,status=doc.getElementById('cookbook-editor-status'),login=doc.getElementById('cookbook-login');
+ let session=null,popup=null;
+ function say(text){status.textContent=text;}
+ function logout(){session=null;say('Sesi tamat. Log masuk semula.');}
+ login.addEventListener('click',()=>{session=null;popup=win.open(backend+'/auth/start','cookbook-owner-login','width=650,height=750');say(popup?'Lengkapkan log masuk GitHub dalam tetingkap baharu.':'Benarkan popup untuk log masuk.');});
+ win.addEventListener('message',event=>{
+  if(win.location.origin!==origin||event.origin!==backend||event.source!==popup||event.data?.type!=='cookbook-session'||typeof event.data.session!=='string')return;
+  session=event.data.session;popup=null;say('Pemilik disahkan. Pilih Edit. Sesi maksimum 20 minit.');
+ });
+ async function api(file,method='GET',payload){
+  if(!session)throw Error('Log masuk pemilik dahulu.');
+  const res=await win.fetch(backend+'/api/recipe?file='+encodeURIComponent(file),{method,cache:'no-store',credentials:'omit',headers:{Authorization:'Bearer '+session,...(payload?{'Content-Type':'application/json'}:{})},body:payload?JSON.stringify(payload):undefined});
+  const data=await res.json();if(res.status===401)logout();if(!res.ok)throw Object.assign(Error(data.error||'Permintaan gagal'),{status:res.status});return data;
+ }
+ doc.addEventListener('click',async event=>{
+  const button=event.target.closest?.('.recipe-edit');if(!button)return;const section=button.closest('section[data-edit-section]'),article=button.closest('article');if(section.querySelector('.recipe-panel'))return;
+  button.disabled=true;
+  try{
+   const current=await api(article.dataset.file),name=button.dataset.section;
+   if(typeof current.sections[name]!=='string')throw Error('Bahagian ini tidak boleh diedit.');
+   const panel=doc.createElement('div');panel.className='recipe-panel';const textarea=doc.createElement('textarea');textarea.value=current.sections[name];textarea.setAttribute?.('aria-label','Pembetulan '+name);
+   const save=doc.createElement('button');save.type='button';save.textContent='Simpan';const cancel=doc.createElement('button');cancel.type='button';cancel.textContent='Batal';panel.append(textarea,save,cancel);section.append(panel);textarea.focus();
+   cancel.addEventListener('click',()=>{panel.remove();button.disabled=false;});
+   save.addEventListener('click',async()=>{
+    save.disabled=true;cancel.disabled=true;say('Menyimpan pembetulan...');
+    // Preserve source newline convention. Terminal blank line keeps next heading separate.
+    const eol=current.sections[name].includes('\r\n')?'\r\n':'\n';const value=textarea.value.replace(/\r\n/g,'\n').replace(/\n*$/,'')+'\n\n';
+    try{
+     const result=await api(article.dataset.file,'PUT',{file:article.dataset.file,baseRevision:current.revision,baseHash:current.recipe.hash,edits:{[name]:value.replace(/\n/g,eol)}});
+     if(result.status!=='saved'){say(result.message+' Commit: '+result.revision);textarea.readOnly=true;cancel.disabled=false;return;}
+     const body=section.querySelector('.recipe-body');if(body){const preview=doc.createElement('pre');preview.textContent=result.sections[name];body.replaceChildren(preview);}
+     panel.remove();button.disabled=false;say('Disimpan dan disahkan pada GitHub. Paparan peranti lain menyusul selepas GitHub Pages siap.');
+    }catch(e){say(e.message+' Draf dikekalkan; jangan ulang Simpan jika status commit tidak pasti.');save.disabled=e.status!==400;cancel.disabled=false;}
+   });
+  }catch(e){button.disabled=false;say(e.message);}
+ });
+ return {sessionActive:()=>!!session,logout};
+}
+
+installEditor(window);</script><!--cookbook-editor-ui:end-->
 <ul class="toc">
 <li><a href="#mee-udang-jia-le-woh-1204449718462919">Mee Udang</a><span class="d">2026-10-06</span></li>
 <li><a href="#sandwic-telur-mayonis-kasitapau-iset-ksvgmy">Sandwic Telur Mayonis</a><span class="d">2026-10-06</span></li>
@@ -1102,46 +1144,4 @@ q.addEventListener('input',function(){
     var li=document.querySelector('.toc a[href="#'+a.id+'"]');
     if(li){li.parentNode.classList.toggle('hide',!show);}
   });
-});</script><!--cookbook-editor-ui:start--><style>.recipe-edit,.recipe-panel,#cookbook-editor-tools{display:inline-block}.recipe-panel{display:block;margin:10px 0}.recipe-panel textarea{width:100%;min-height:180px;font:inherit}.recipe-panel button{margin:6px}.recipe-body pre{white-space:pre-wrap}</style><div id="cookbook-editor-tools" class="editor-active"><button type="button" id="cookbook-login">Log masuk pemilik</button><p id="cookbook-editor-status" role="status">Pembetulan disimpan pada GitHub; bukan dalam pelayar sahaja.</p></div><script id="cookbook-editor-client">// Embedded by pipeline.mjs, never reads/writes localStorage or cookies.
-function installEditor(win){
- const backend='https://cookbook-editor.ownaseven.workers.dev',origin='https://ownaseven.github.io';
- const doc=win.document,status=doc.getElementById('cookbook-editor-status'),login=doc.getElementById('cookbook-login');
- let session=null,popup=null;
- function say(text){status.textContent=text;}
- function logout(){session=null;say('Sesi tamat. Log masuk semula.');}
- login.addEventListener('click',()=>{session=null;popup=win.open(backend+'/auth/start','cookbook-owner-login','width=650,height=750');say(popup?'Lengkapkan log masuk GitHub dalam tetingkap baharu.':'Benarkan popup untuk log masuk.');});
- win.addEventListener('message',event=>{
-  if(win.location.origin!==origin||event.origin!==backend||event.source!==popup||event.data?.type!=='cookbook-session'||typeof event.data.session!=='string')return;
-  session=event.data.session;popup=null;say('Pemilik disahkan. Pilih Edit. Sesi maksimum 20 minit.');
- });
- async function api(file,method='GET',payload){
-  if(!session)throw Error('Log masuk pemilik dahulu.');
-  const res=await win.fetch(backend+'/api/recipe?file='+encodeURIComponent(file),{method,cache:'no-store',credentials:'omit',headers:{Authorization:'Bearer '+session,...(payload?{'Content-Type':'application/json'}:{})},body:payload?JSON.stringify(payload):undefined});
-  const data=await res.json();if(res.status===401)logout();if(!res.ok)throw Object.assign(Error(data.error||'Permintaan gagal'),{status:res.status});return data;
- }
- doc.addEventListener('click',async event=>{
-  const button=event.target.closest?.('.recipe-edit');if(!button)return;const section=button.closest('section[data-edit-section]'),article=button.closest('article');if(section.querySelector('.recipe-panel'))return;
-  button.disabled=true;
-  try{
-   const current=await api(article.dataset.file),name=button.dataset.section;
-   if(typeof current.sections[name]!=='string')throw Error('Bahagian ini tidak boleh diedit.');
-   const panel=doc.createElement('div');panel.className='recipe-panel';const textarea=doc.createElement('textarea');textarea.value=current.sections[name];textarea.setAttribute?.('aria-label','Pembetulan '+name);
-   const save=doc.createElement('button');save.type='button';save.textContent='Simpan';const cancel=doc.createElement('button');cancel.type='button';cancel.textContent='Batal';panel.append(textarea,save,cancel);section.append(panel);textarea.focus();
-   cancel.addEventListener('click',()=>{panel.remove();button.disabled=false;});
-   save.addEventListener('click',async()=>{
-    save.disabled=true;cancel.disabled=true;say('Menyimpan pembetulan...');
-    // Preserve source newline convention. Terminal blank line keeps next heading separate.
-    const eol=current.sections[name].includes('\r\n')?'\r\n':'\n';const value=textarea.value.replace(/\r\n/g,'\n').replace(/\n*$/,'')+'\n\n';
-    try{
-     const result=await api(article.dataset.file,'PUT',{file:article.dataset.file,baseRevision:current.revision,baseHash:current.recipe.hash,edits:{[name]:value.replace(/\n/g,eol)}});
-     if(result.status!=='saved'){say(result.message+' Commit: '+result.revision);textarea.readOnly=true;cancel.disabled=false;return;}
-     const body=section.querySelector('.recipe-body');if(body){const preview=doc.createElement('pre');preview.textContent=result.sections[name];body.replaceChildren(preview);}
-     panel.remove();button.disabled=false;say('Disimpan dan disahkan pada GitHub. Paparan peranti lain menyusul selepas GitHub Pages siap.');
-    }catch(e){say(e.message+' Draf dikekalkan; jangan ulang Simpan jika status commit tidak pasti.');save.disabled=e.status!==400;cancel.disabled=false;}
-   });
-  }catch(e){button.disabled=false;say(e.message);}
- });
- return {sessionActive:()=>!!session,logout};
-}
-
-installEditor(window);</script><!--cookbook-editor-ui:end--></body></html>
+});</script></body></html>
