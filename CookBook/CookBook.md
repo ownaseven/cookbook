@@ -1,6 +1,6 @@
 # Personal CookBook
 
-Dikemas kini: 2026-10-10 14:29 | Jumlah resepi: 16
+Dikemas kini: 2026-10-25 12:29 | Jumlah resepi: 17
 
 ## Senarai resepi
 
@@ -20,6 +20,7 @@ Dikemas kini: 2026-10-10 14:29 | Jumlah resepi: 16
 14. Sambal Belimbing Buluh - ditambah 2026-10-09 00:02
 15. Mee Celup Thai versi Akak Founder - ditambah 2026-10-10 14:18
 16. Daging Masak Merah Cara Kedai Tomyam - ditambah 2026-10-10 14:29
+17. Pisang Goreng Thailand dengan Sos Pisang - ditambah 2026-10-25 12:29
 
 ---
 
@@ -1281,3 +1282,82 @@ Gambar ditangkap mengikut selang masa video dan bukan dipilih mengikut kandungan
 ![Bingkai 75](../gambar/fb_1512287313746614/bingkai_75.jpg)
 
 ![Bingkai 92](../gambar/fb_1512287313746614/bingkai_92.jpg)
+
+
+---
+
+# Pisang Goreng Thailand dengan Sos Pisang
+
+Sumber: https://www.facebook.com/share/v/19ep5vdBmw/
+Pautan video: https://m.facebook.com/watch/?v=1086735314120777&_rdr
+Pembuat: Yuwadee Akak Founder
+Tarikh disimpan: 2026-10-25
+Jenis: Resipi
+Bahasa audio: Bahasa Malaysia; terdapat ungkapan bahasa Thai.
+
+## Bahan
+
+### Sos pisang
+- Pisang — 2 biji [SEMAK].
+- Santan — 1 kotak kecil [SEMAK]; isipadu tidak dinyatakan.
+- Gula — 3 sudu [SEMAK]; jenis sudu tidak jelas dalam transkrip.
+- Garam — 1 sudu kecil [SEMAK].
+- Air kelapa — sehingga pisang tenggelam [SEMAK].
+- Tepung jagung — 1 sudu [SEMAK]; jenis sudu tidak jelas dalam transkrip.
+- Mentega — kuantiti [TIDAK DINYATAKAN]. Penambahan mentega disahkan oleh teks bingkai_35.
+
+### Pisang dan adunan salutan
+- Pisang abu, atau pisang lain yang sesuai digoreng — jumlah [TIDAK DINYATAKAN]. Teks bingkai_15 membenarkan apa-apa pisang yang boleh digoreng.
+- Tepung beras — 1 mangkuk [SEMAK].
+- Garam — 1 sudu [SEMAK]; jenis sudu tidak jelas.
+- Santan — 2 sudu [SEMAK]; jenis sudu tidak jelas.
+- Isi kelapa — setengah mangkuk [SEMAK]; bentuk penyediaannya tidak jelas dalam transkrip.
+- Bijan — pilihan; kuantiti [TIDAK DINYATAKAN].
+- Air kapur — transkrip menyebut 1 mangkuk dan mengambil bahagian atas selepas direndam semalaman [SEMAK]. Nama bahan dan sukatan ini perlu disahkan kerana transkrip turut mempunyai sebutan kabur berdekatan, “Aikapu dua sudut”. Jangan menganggap kedua-dua sebutan itu dua tambahan berasingan.
+- Minyak untuk menggoreng — kuantiti [TIDAK DINYATAKAN].
+
+Catatan sukatan: Semua kuantiti bertanda [SEMAK] hanya diperoleh daripada transkrip automatik, bukan kapsyen atau teks sukatan pada gambar. Saiz mangkuk dan sudu tidak ditukarkan kepada gram atau mililiter. Tiada anggaran visual digunakan kerana gambar tidak cukup jelas untuk menilai kuantiti bahan.
+
+## Langkah
+
+### Menyediakan sos
+1. Masukkan pisang, santan, gula dan garam ke dalam pengisar. Tuangkan air kelapa sehingga pisang tenggelam, kemudian masukkan tepung jagung dan kisar. Rujuk sukatan bertanda [SEMAK] di atas.
+2. Masak campuran sos menggunakan api perlahan sambil kerap dikacau. Sebutan keadaan akhir sos dalam transkrip kurang jelas [SEMAK]; tempoh memasak tidak dinyatakan.
+3. Akhir sekali, masukkan mentega dan kacau sebati. Teks pada bingkai_35 menyatakan, “Akhir sekali, masukkan mentega.” Ketepikan supaya sejuk.
+
+### Menyediakan dan menggoreng pisang
+4. Campurkan tepung beras, garam, santan, isi kelapa dan bijan jika digunakan. Tambahkan air kapur mengikut butiran sumber yang masih perlu disemak di atas. Terdapat sebutan bahan/sukatan yang kabur dalam bahagian ini; jangan menganggap senarai ini lengkap tanpa semakan.
+5. Kacau sehingga sebati, seperti teks pada bingkai_55. Kepekatan tepat adunan tidak dapat dipastikan daripada transkrip.
+6. Kupas pisang dan potong nipis; pembuat menyebut ketebalan boleh mengikut kesukaan.
+7. Celup pisang ke dalam adunan sehingga bersalut.
+8. Masukkan ke dalam minyak yang sudah panas. Menurut pembuat, gunakan api kuat supaya pisang tidak menyerap minyak. Goreng sehingga keemasan; tempoh dan suhu tepat tidak dinyatakan.
+9. Hidangkan pisang goreng bersama sos pisang. Bingkai_92 menunjukkan sos dicurahkan pada pisang dan turut disediakan dalam mangkuk untuk dicicah.
+
+## Petua
+
+- Pilih pisang yang sesuai untuk digoreng; pembuat menyebut pisang abu dan membenarkan jenis lain.
+- Bijan ialah bahan pilihan untuk aroma, menurut pertuturan pembuat.
+- Kerap kacau sos semasa dimasak dengan api perlahan.
+- Nasihat penggunaan api kuat ialah petua pembuat, bukan bacaan suhu minyak yang diukur. Teks bingkai_75 menyatakan pisang menyerap minyak jika kaedah menggoreng tidak sesuai.
+- Transkrip bahagian akhir turut menyebut menggoreng kerak adunan, tetapi perkataannya tidak cukup jelas untuk dijadikan langkah terperinci [SEMAK].
+
+## Catatan sumber dan semakan
+
+- Kapsyen memperkenalkan pisang goreng Thailand dan sos cicah, tetapi tidak menyediakan senarai bahan atau langkah terperinci.
+- Transkrip automatik mengandungi beberapa perkataan tersalah dengar. Sebutan kabur tidak ditukar menjadi bahan atau langkah baharu berdasarkan kebiasaan memasak.
+- Video dan audio dilaporkan sepanjang 164 saat, manakala cap masa akhir transkrip sampai 166 saat. Perbezaan ini mungkin hanyutan cap masa; ketepatan setiap cap masa tidak disahkan.
+- Semua lima gambar yang dihasilkan pengumpul telah diperiksa. Tiada sukatan bahan bertulis yang jelas dalam gambar tersebut.
+
+## Gambar
+
+Gambar ditangkap mengikut selang masa video, bukan dipilih mengikut kandungan. Nombor fail ialah pengenal bingkai, bukan cap masa saat yang disahkan.
+
+![Bingkai 15](../gambar/fb_1086735314120777/bingkai_15.jpg)
+
+![Bingkai 35](../gambar/fb_1086735314120777/bingkai_35.jpg)
+
+![Bingkai 55](../gambar/fb_1086735314120777/bingkai_55.jpg)
+
+![Bingkai 75](../gambar/fb_1086735314120777/bingkai_75.jpg)
+
+![Bingkai 92](../gambar/fb_1086735314120777/bingkai_92.jpg)
