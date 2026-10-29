@@ -1,6 +1,6 @@
 # Personal CookBook
 
-Dikemas kini: 2026-10-25 12:29 | Jumlah resepi: 17
+Dikemas kini: 2026-10-30 06:10 | Jumlah resepi: 18
 
 ## Senarai resepi
 
@@ -21,6 +21,7 @@ Dikemas kini: 2026-10-25 12:29 | Jumlah resepi: 17
 15. Mee Celup Thai versi Akak Founder - ditambah 2026-10-10 14:18
 16. Daging Masak Merah Cara Kedai Tomyam - ditambah 2026-10-10 14:29
 17. Pisang Goreng Thailand dengan Sos Pisang - ditambah 2026-10-25 12:29
+18. Kentang Lenyek Gaya KFC Menggunakan Periuk Nasi - ditambah 2026-10-30 06:10
 
 ---
 
@@ -1361,3 +1362,68 @@ Gambar ditangkap mengikut selang masa video, bukan dipilih mengikut kandungan. N
 ![Bingkai 75](../gambar/fb_1086735314120777/bingkai_75.jpg)
 
 ![Bingkai 92](../gambar/fb_1086735314120777/bingkai_92.jpg)
+
+
+---
+
+# Kentang Lenyek Gaya KFC Menggunakan Periuk Nasi
+
+Sumber: https://www.facebook.com/share/r/152H14vZc8K/
+Pautan video dikenal pasti: https://m.facebook.com/watch/?v=1779935229719895&_rdr
+Pembuat: Billy Lau
+Tarikh disimpan: 2026-10-30
+Jenis: Resipi
+Bahasa audio: Bahasa Inggeris, berdasarkan transkrip automatik pengumpul.
+
+## Bahan
+
+### Kentang lenyek
+- Kentang — kuantiti keseluruhan dan berat [TIDAK DINYATAKAN]. Bingkai 15 menunjukkan tiga bahagian besar kentang yang telah dikupas, tetapi tidak mengesahkan jumlah biji kentang asal.
+- Susu — satu botol [SEMAK]; isipadu botol dan jenis susu tidak dinyatakan.
+- Mentega — dua potong kecil [SEMAK]; berat setiap potong tidak dinyatakan.
+
+### Kuah
+- Air — setengah mangkuk [SEMAK]; kapasiti mangkuk tidak dinyatakan.
+- Tepung jagung — transkrip menyebut “satu”, tetapi tidak menyatakan unit atau jumlah yang boleh dipastikan [SEMAK].
+- Sos tiram.
+- Lada hitam.
+
+**Catatan sukatan:** Jumlah sos tiram dan lada hitam tidak dinyatakan. Sukatan susu, mentega, air serta sebutan jumlah tepung jagung datang daripada transkrip audio automatik sahaja, bukan kapsyen; semuanya perlu disemak. Tiada sukatan cawan, sudu atau gram ditambah berdasarkan andaian saiz bekas.
+
+## Langkah
+
+1. Masukkan kentang ke dalam periuk nasi. Tambahkan susu dan mentega.
+2. Masak menggunakan satu kitaran memasak periuk nasi [SEMAK — bilangan kitaran hanya disebut dalam transkrip audio]. Tempoh dalam minit, mod khusus dan suhu tidak dinyatakan.
+3. Apabila kentang lembut, lenyekkan sehingga menjadi kentang lenyek yang halus.
+4. Lapik sebuah mangkuk dengan plastik pembalut, kemudian masukkan kentang lenyek ke dalam mangkuk tersebut.
+5. Terbalikkan mangkuk ke atas pinggan. Angkat mangkuk dan tanggalkan plastik pembalut untuk mengeluarkan kentang lenyek yang terbentuk.
+6. Untuk kuah, masukkan air dan tepung jagung ke dalam periuk nasi, kemudian panaskan. Transkrip tidak menerangkan sama ada tepung jagung dibancuh berasingan terlebih dahulu.
+7. Tambahkan sos tiram dan lada hitam. Kacau sambil dipanaskan sehingga kuah pekat dan menggelegak. Arahan memanaskan sehingga pekat turut kelihatan pada teks bingkai 75.
+8. Tuangkan kuah ke atas kentang lenyek dan hidangkan.
+
+## Petua
+
+- Pelapik plastik digunakan dalam sumber untuk memudahkan kentang lenyek dikeluarkan daripada mangkuk; hasil pembentukan dapat dilihat pada bingkai 55.
+- Kuah dikacau ketika dipanaskan sehingga pekat, seperti yang kelihatan pada bingkai 75.
+- “Gaya KFC” ialah penerangan pembuat, bukan dakwaan bahawa ini resipi rasmi KFC.
+- Jenis plastik pembalut dan kesesuaiannya untuk makanan panas tidak diterangkan oleh sumber.
+
+### Batasan sumber dan semakan
+
+Kapsyen hanya memberikan penerangan umum resipi, tanpa senarai bahan bersukatan atau langkah lengkap. Bahan dan urutan di atas disusun daripada transkrip audio automatik serta semua lima gambar yang dihasilkan pengumpul. Transkrip mengandungi beberapa perkataan yang mungkin tersalah dengar; sebutan jumlah tepung jagung tidak cukup jelas untuk menetapkan sukatan.
+
+Pengumpul melaporkan durasi video dan audio 89 saat, manakala transkrip sampai 80 saat sahaja. Oleh itu, liputan pertuturan tidak dianggap lengkap. Tiada sari kata berasingan diperoleh. Bilangan hidangan dan masa memasak tepat tidak dinyatakan. Tiada anggaran berat kentang, isipadu susu atau sukatan tambahan direka daripada gambar.
+
+## Gambar
+
+Semua gambar di bawah ditangkap mengikut selang video oleh skrip pengumpul, bukan dipilih berdasarkan kandungan. Nombor pada nama bingkai bukan cap masa dalam saat. Bingkai 35 kabur akibat pergerakan dan tidak digunakan untuk menetapkan bahan atau sukatan.
+
+![Bingkai 15 — kentang dalam periuk nasi](../gambar/fb_1779935229719895/bingkai_15.jpg)
+
+![Bingkai 35 — bingkai peralihan yang kabur](../gambar/fb_1779935229719895/bingkai_35.jpg)
+
+![Bingkai 55 — kentang lenyek dikeluarkan daripada acuan mangkuk](../gambar/fb_1779935229719895/bingkai_55.jpg)
+
+![Bingkai 75 — kuah dikacau dan dipanaskan sehingga pekat](../gambar/fb_1779935229719895/bingkai_75.jpg)
+
+![Bingkai 92 — kentang lenyek bersama kuah sedang dirasa](../gambar/fb_1779935229719895/bingkai_92.jpg)
