@@ -1,6 +1,6 @@
 # Personal CookBook
 
-Dikemas kini: 2026-11-03 19:12 | Jumlah resepi: 20
+Dikemas kini: 2026-11-03 19:57 | Jumlah resepi: 21
 
 ## Senarai resepi
 
@@ -24,6 +24,7 @@ Dikemas kini: 2026-11-03 19:12 | Jumlah resepi: 20
 18. Kentang Lenyek Gaya KFC Menggunakan Periuk Nasi - ditambah 2026-10-30 06:10
 19. Nasi Mandi Ayam - ditambah 2026-11-03 19:03
 20. Ayam Gunting Rangup - ditambah 2026-11-03 19:12
+21. Roti Naan dan Ayam Masala - ditambah 2026-11-03 19:57
 
 ---
 
@@ -1613,3 +1614,78 @@ Semua lima gambar yang dikumpulkan dipaut mengikut urutan nama fail. Gambar dita
 ![Bingkai 75 — ayam bersalut diangkat dari minyak](../gambar/fb_1656610249469392/bingkai_75.jpg)
 
 ![Bingkai 92 — ayam gunting dengan taburan merah](../gambar/fb_1656610249469392/bingkai_92.jpg)
+
+
+---
+
+# Roti Naan dan Ayam Masala
+
+Sumber: https://www.facebook.com/share/v/1cCZEYU8S8/  
+Pembuat: Dya Syazzy  
+Tarikh disimpan: 2026-11-03  
+Jenis: Resipi  
+Bahasa audio: Bahasa Melayu
+
+## Bahan
+
+### Roti naan
+- 220 g air suam
+- 2 sudu besar minyak masak
+- 1 sudu kecil gula
+- 1 sudu kecil yis
+- 350 g tepung gandum; sedikit lagi untuk menabur ketika mencanai jika doh melekat
+- Sedikit garam
+- Keju untuk naan berinti keju — kuantiti dan jenis [TIDAK DINYATAKAN]
+
+### Ayam dan perapan masala
+- 600 g ayam — jenis potongan [TIDAK DINYATAKAN]
+- Jus ½ biji lemon
+- Ketumbar, jintan putih, cili, garam masala dan kunyit — audio menyebut setiap satunya dengan sukatan yang kedengaran seperti “satu”, tetapi unit dan bentuk bahan tidak jelas [SEMAK]. Istilah “garam masala” juga berdasarkan audio automatik [SEMAK].
+- Sedikit garam
+- 3 sudu besar yogurt
+
+### Kuah ayam
+- 1 sudu besar ghee untuk memasak ayam perap (teks pada bingkai 75)
+- 1 sudu besar ghee lagi untuk menumis (audio automatik; unit [SEMAK])
+- 1 biji bawang besar
+- 1 sudu besar pes bawang putih/halia — sebutan audio tidak jelas [SEMAK]
+- Campuran rempah yang sama seperti perapan — jumlah tambahan [TIDAK DINYATAKAN]
+- 1 sudu besar puri tomato — audio automatik [SEMAK]
+- Tomato cincang — audio kedengaran seperti “360” tetapi unitnya tidak jelas [SEMAK]
+- Sedikit air — kuantiti [TIDAK DINYATAKAN]
+- Garam secukup rasa
+- ½ cawan cooking cream (teks pada bingkai 92)
+
+Catatan sumber: kapsyen menyenaraikan bahan dan langkah naan sahaja. Bahagian ayam diperoleh daripada transkrip audio automatik yang boleh tersalah dengar; sukatan yang hanya disebut dalam audio dan tidak terdapat dalam kapsyen ditandakan [SEMAK] di atas atau di bawah. Bahan atau kuantiti yang meragukan perlu disahkan dengan pembuat sebelum digunakan sebagai sukatan tepat.
+
+## Langkah
+
+### Roti naan
+1. Campurkan air suam, minyak masak, gula dan yis. Kacau sebati, kemudian masukkan tepung gandum dan garam. Gaul hingga membentuk doh.
+2. Uli doh selama 8–10 minit. Tutup doh (audio menyebut cling wrap atau penutup lain [SEMAK]) dan rehatkan selama 1 jam.
+3. Bentukkan doh menjadi bulat dan bahagikan kepada 4 bahagian untuk naan besar, atau 6 bahagian untuk yang lebih kecil.
+4. Tabur sedikit tepung dan canai setiap bahagian. Jika mahu naan keju, canai sedikit doh, letakkan keju di tengah, rapatkan tepinya dan canai semula. Jenis dan jumlah keju [TIDAK DINYATAKAN].
+5. Masak di atas kuali panas. Audio menyebut balikkan setiap 1–2 minit [SEMAK]; tempoh keseluruhan memasak dan suhu tepat [TIDAK DINYATAKAN]. Hidangkan.
+
+### Ayam masala untuk dimakan bersama naan
+1. Gaul ayam dengan jus lemon, ketumbar, jintan putih, cili, garam masala, kunyit, garam dan yogurt. Perap sekurang-kurangnya 1 jam (semua sukatan ayam yang hanya didengar melalui audio perlu [SEMAK]).
+2. Cairkan 1 sudu besar ghee dan masak ayam yang diperap. Angkat dan ketepikan. Audio menyebut oven sebagai pilihan yang dikatakan lebih sedap, tetapi suhu dan masa oven [TIDAK DINYATAKAN]. Pastikan ayam masak sepenuhnya sebelum dihidang; sumber tidak menyatakan masa memasak.
+3. Cairkan 1 sudu besar ghee lagi [SEMAK], tumis bawang besar bersama pes bawang putih/halia [SEMAK], kemudian masukkan campuran rempah yang sama seperti perapan. Jumlah rempah tambahan [TIDAK DINYATAKAN].
+4. Masukkan puri tomato [SEMAK], tomato cincang [SEMAK] dan sedikit air. Kemudian masukkan ayam yang telah dimasak. Perasakan dengan garam.
+5. Masukkan ½ cawan cooking cream (sukatan pada bingkai 92). Masak sebentar hingga sebati; masa khusus [TIDAK DINYATAKAN]. Hidangkan bersama naan.
+
+## Petua
+- Kapsyen menyatakan doh boleh diuli tanpa mesin.
+- Tabur sedikit lagi tepung ketika mencanai jika doh melekat (audio automatik).
+- Roti naan keju boleh dimakan begitu sahaja; naan kosong dihidang bersama ayam masala (audio automatik).
+- Hiasan hijau dan sapuan pada naan kelihatan dalam bingkai 55, tetapi identiti dan kuantitinya [TIDAK DINYATAKAN]; ia tidak dimasukkan sebagai bahan wajib.
+
+## Gambar
+
+Gambar ini ditangkap mengikut selang masa video, bukan dipilih mengikut kandungan. Nombor bingkai bukan masa video.
+
+![bingkai 15](../gambar/fb_1778969382980723/bingkai_15.jpg)
+![bingkai 35](../gambar/fb_1778969382980723/bingkai_35.jpg)
+![bingkai 55](../gambar/fb_1778969382980723/bingkai_55.jpg)
+![bingkai 75](../gambar/fb_1778969382980723/bingkai_75.jpg)
+![bingkai 92](../gambar/fb_1778969382980723/bingkai_92.jpg)
