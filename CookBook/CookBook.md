@@ -1,6 +1,6 @@
 # Personal CookBook
 
-Dikemas kini: 2026-11-03 19:03 | Jumlah resepi: 19
+Dikemas kini: 2026-11-03 19:12 | Jumlah resepi: 20
 
 ## Senarai resepi
 
@@ -23,6 +23,7 @@ Dikemas kini: 2026-11-03 19:03 | Jumlah resepi: 19
 17. Pisang Goreng Thailand dengan Sos Pisang - ditambah 2026-10-25 12:29
 18. Kentang Lenyek Gaya KFC Menggunakan Periuk Nasi - ditambah 2026-10-30 06:10
 19. Nasi Mandi Ayam - ditambah 2026-11-03 19:03
+20. Ayam Gunting Rangup - ditambah 2026-11-03 19:12
 
 ---
 
@@ -1537,3 +1538,78 @@ Semua lima gambar yang dikumpulkan disertakan di bawah mengikut urutan nama bing
 ![Bingkai 75 — ayam diletakkan di atas nasi](../gambar/fb_977815604832628/bingkai_75.jpg)
 
 ![Bingkai 92 — hidangan nasi dan ayam](../gambar/fb_977815604832628/bingkai_92.jpg)
+
+
+---
+
+# Ayam Gunting Rangup
+
+Sumber: https://www.facebook.com/share/r/19vkwM23V7/
+Pautan video asal: https://m.facebook.com/watch/?v=1656610249469392&_rdr
+Pembuat: Dya Syazzy
+Tarikh disimpan: 2026-11-03
+Jenis: Resipi
+Bahasa audio: Bahasa Malaysia
+
+## Bahan
+
+### Ayam dan perapan
+- 3 keping dada ayam, dibelah dan dinipiskan seperti dalam video.
+- Kira-kira 150 ml air untuk melarutkan rempah.
+- **Pilihan A:** 2 sudu besar rempah Durafood.
+- **ATAU pilihan B:** campuran berikut sebagai pengganti rempah Durafood:
+  - 1 sudu kecil serbuk bawang putih (garlic powder).
+  - 1 sudu kecil serbuk bawang (onion powder).
+  - 1 sudu kecil paprika.
+  - 1 sudu kecil serbuk lada putih (white pepper).
+  - 2 sudu kecil garam.
+
+Pilih satu pilihan rempah sahaja; kapsyen menyenaraikan Durafood ATAU campuran serbuk di atas, bukan kedua-duanya sekali.
+
+### Campuran tepung salutan
+- 2½ cawan tepung ubi kayu.
+- 1 sudu kecil garam.
+- Sedikit serbuk lada putih.
+- Sedikit air untuk direnjis pada tepung.
+
+### Bahan lain
+- Minyak untuk menggoreng.
+- Serbuk cili cayenne (cayenne pepper), untuk ditabur pada ayam.
+
+Kuantiti minyak, serbuk cili cayenne, lada putih dalam salutan dan air renjisan tidak dinyatakan secara tepat. Jangan gunakan sukatan air perapan sebagai sukatan air renjisan tepung.
+
+## Langkah
+
+1. Belah dada ayam dari bahagian tepi dan buka supaya menjadi lebih lebar. Nipiskan bahagian lain yang masih tebal seperti diterangkan dalam audio. Bingkai_15 menunjukkan dada ayam dibuka berlapis; arah keseluruhan potongan tidak dapat diperincikan daripada satu gambar sahaja. Ketebalan sasaran [TIDAK DINYATAKAN].
+2. Larutkan rempah Durafood ATAU campuran serbuk bawang putih, serbuk bawang, paprika, lada putih dan garam dengan kira-kira 150 ml air. Kacau sebati. Penambahan air pada campuran perapan kelihatan pada bingkai_35.
+3. Tuangkan perapan pada dada ayam. Perap selama 30 minit [SEMAK — tempoh daripada transkrip audio sahaja].
+4. Campurkan tepung ubi kayu, garam dan sedikit lada putih dalam bekas salutan.
+5. Renjiskan sedikit air pada tepung dan gaul untuk menghasilkan tekstur berketul kecil bagi salutan yang menggerutu. Campuran tepung yang digaul kelihatan pada bingkai_55; jumlah air renjisan tidak dinyatakan.
+6. Salutkan kedua-dua belah dada ayam yang telah diperap dengan campuran tepung. Tekan-tekan sedikit supaya salutan rata dan melekat.
+7. Goreng dalam minyak panas. Audio menyebut kira-kira 5–7 minit [SEMAK — tempoh daripada transkrip audio sahaja] dan melaraskan tempoh mengikut saiz atau ketebalan ayam; frasa audio tentang pelarasan itu kurang jelas. Suhu minyak dan tahap api [TIDAK DINYATAKAN].
+8. Angkat ayam dan toskan minyak. Bingkai_75 menunjukkan ayam bersalut keemasan diangkat dari minyak.
+9. Taburkan serbuk cili cayenne pada ayam untuk versi pedas, kemudian gunting menjadi potongan hidangan. Bingkai_92 menunjukkan ayam yang telah dipotong dengan taburan merah.
+
+## Petua
+
+- Rempah Durafood ialah pilihan ringkas yang diberikan pembuat sebagai ganti campuran beberapa serbuk perapan.
+- Menurut pembuat, renjisan air pada tepung membantu menghasilkan salutan bertekstur menggerutu. Tiada sukatan tambahan direka untuk langkah ini.
+- Pembuat menyatakan ayam perapan sudah cukup berasa; serbuk cili cayenne sahaja digunakan pada akhir penyediaan supaya tidak menambah terlalu banyak rasa masin.
+- Gunakan 3 keping dada ayam seperti kapsyen. Sebutan satu keping pada pembukaan audio menerangkan saiz hasil, bukan menggantikan jumlah bahan kapsyen.
+- Transkrip automatik mengandungi perkataan yang tersalah dengar. Nama bahan dan sukatan diutamakan daripada kapsyen; tempoh yang hanya disebut dalam audio ditandakan [SEMAK].
+- Catatan keselamatan tambahan, bukan arahan asal pembuat: pastikan ayam masak sepenuhnya; warna salutan atau tempoh menggoreng sahaja tidak menjamin kemasakan bahagian dalam.
+- Video dilaporkan sepanjang 83 saat, audio 82 saat dan transkrip mencapai 82 saat. Tiada sari kata diperoleh.
+
+## Gambar
+
+Semua lima gambar yang dikumpulkan dipaut mengikut urutan nama fail. Gambar ditangkap mengikut selang video dan bukan dipilih mengikut kandungan. Nombor nama bingkai bukan cap masa dalam saat. Tiada teks sukatan yang jelas pada lima gambar ini; sukatan bahan di atas diambil daripada kapsyen.
+
+![Bingkai 15 — dada ayam dibuka berlapis](../gambar/fb_1656610249469392/bingkai_15.jpg)
+
+![Bingkai 35 — air dituang pada campuran perapan](../gambar/fb_1656610249469392/bingkai_35.jpg)
+
+![Bingkai 55 — campuran tepung salutan digaul](../gambar/fb_1656610249469392/bingkai_55.jpg)
+
+![Bingkai 75 — ayam bersalut diangkat dari minyak](../gambar/fb_1656610249469392/bingkai_75.jpg)
+
+![Bingkai 92 — ayam gunting dengan taburan merah](../gambar/fb_1656610249469392/bingkai_92.jpg)
