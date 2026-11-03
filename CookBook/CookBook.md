@@ -1,6 +1,6 @@
 # Personal CookBook
 
-Dikemas kini: 2026-10-30 06:10 | Jumlah resepi: 18
+Dikemas kini: 2026-11-03 19:03 | Jumlah resepi: 19
 
 ## Senarai resepi
 
@@ -22,6 +22,7 @@ Dikemas kini: 2026-10-30 06:10 | Jumlah resepi: 18
 16. Daging Masak Merah Cara Kedai Tomyam - ditambah 2026-10-10 14:29
 17. Pisang Goreng Thailand dengan Sos Pisang - ditambah 2026-10-25 12:29
 18. Kentang Lenyek Gaya KFC Menggunakan Periuk Nasi - ditambah 2026-10-30 06:10
+19. Nasi Mandi Ayam - ditambah 2026-11-03 19:03
 
 ---
 
@@ -1427,3 +1428,112 @@ Semua gambar di bawah ditangkap mengikut selang video oleh skrip pengumpul, buka
 ![Bingkai 75 — kuah dikacau dan dipanaskan sehingga pekat](../gambar/fb_1779935229719895/bingkai_75.jpg)
 
 ![Bingkai 92 — kentang lenyek bersama kuah sedang dirasa](../gambar/fb_1779935229719895/bingkai_92.jpg)
+
+
+---
+
+# Nasi Mandi Ayam
+
+Sumber: https://www.facebook.com/share/v/18ohdXFSbj/
+Pautan video asal: https://m.facebook.com/watch/?v=977815604832628&_rdr
+Pembuat: Dya Syazzy
+Tarikh disimpan: 2026-11-03
+Jenis: Resipi
+Bahasa audio: Bahasa Malaysia
+
+## Bahan
+
+### Ayam dan nasi
+- 1 ekor ayam.
+- 1 biji bawang Holland, dipotong dadu.
+- 7 ulas bawang putih.
+- 6 biji buah pelaga.
+- 1 batang kayu manis.
+- 2 helai daun salam.
+- 1 sudu kecil bunga cengkih.
+- 1 sudu kecil lada hitam.
+- 1 sudu kecil biji ketumbar.
+- ½ sudu besar serbuk jintan putih.
+- ½ sudu besar serbuk ketumbar.
+- 3½ pot air, kira-kira 850 ml, seperti dinyatakan dalam kapsyen.
+- 1 sudu besar garam kasar; laraskan mengikut tahap kemasinan yang disukai.
+- 500 g beras basmati, dibasuh dan direndam selama 30 minit.
+- 1 biji loomi.
+- 4 batang cili hijau.
+- Sedikit pewarna merah oren.
+- Air safron (saffron).
+- Minyak untuk menumis; kelihatan pada bingkai_35, tetapi kuantitinya [TIDAK DINYATAKAN].
+
+### Sapuan ayam untuk dibakar
+- Sedikit minyak masak.
+- 1 sudu kecil serbuk paprika.
+- 1 sudu kecil serbuk jintan putih.
+- 1 sudu kecil serbuk lada hitam.
+- 1 sudu kecil pewarna safron (saffron), mengikut istilah kapsyen.
+
+### Salata Arab
+- Bawang besar.
+- Timun.
+- Lada benggala (capsicum).
+- Tomato.
+- Daun ketumbar, diracik halus.
+
+Kuantiti bahan Salata Arab [TIDAK DINYATAKAN]. Bawang besar dinyatakan dalam kapsyen walaupun tidak disebut dengan jelas dalam transkrip.
+
+### Salata Hara — sos pedas
+- 2 biji tomato.
+- 2 ulas bawang putih.
+- 1 batang cili hijau.
+- Daun ketumbar dan daun pudina.
+- Garam secukup rasa.
+- Sedikit air untuk mengisar.
+
+Kuantiti air safron, daun ketumbar dan daun pudina [TIDAK DINYATAKAN]. Istilah “sedikit” dikekalkan apabila itulah sukatan sumber.
+
+### Pilihan aroma berasap
+- Arang yang telah dibakar serta sedikit minyak [SEMAK — disebut dalam transkrip audio sahaja; jumlah arang tidak dinyatakan].
+
+## Langkah
+
+### Menyediakan ayam dan nasi
+1. Basuh beras basmati dan rendam selama 30 minit, mengikut kapsyen.
+2. Tumis daun salam, kayu manis, bunga cengkih, buah pelaga, lada hitam dan biji ketumbar hingga naik bau. Minyak tumisan kelihatan dalam bingkai_35, tetapi sukatan dan tahap api tidak dinyatakan.
+3. Masukkan bawang putih, kemudian bawang Holland yang dipotong dadu dan tumis bersama. Tambahkan serbuk ketumbar dan serbuk jintan putih.
+4. Tuangkan air dan masukkan garam kasar. Kapsyen menyatakan kira-kira 850 ml air dan 1 sudu besar garam kasar.
+5. Masukkan ayam dan rebus selama 30 minit [SEMAK — tempoh daripada transkrip audio sahaja]. Transkrip menyebut ayam dibelah di bahagian tengah [SEMAK — frasa transkrip kurang jelas].
+6. Keluarkan ayam yang telah direbus. Masukkan loomi, beras basmati yang telah direndam dan dibasuh, serta cili hijau ke dalam air rebusan. Biarkan masak sehingga air hampir kering.
+7. Tambahkan sedikit pewarna merah oren dan air safron. Penambahan cecair merah pada nasi kelihatan dalam bingkai_55.
+8. Masak dengan api perlahan selama 10 minit, kemudian padamkan api dan biarkan selama 10 minit lagi [SEMAK — kedua-dua tempoh dan arahan memadamkan api daripada transkrip audio sahaja].
+
+### Membakar ayam
+9. Gaulkan semua bahan sapuan ayam dengan sedikit minyak masak. Sapukan pada ayam yang telah direbus.
+10. Bakar pada suhu 200°C selama 15 minit [SEMAK — suhu dan tempoh daripada transkrip audio sahaja; jenis alat pembakar tidak dinyatakan]. Pastikan ayam masak sepenuhnya sebelum dihidangkan; tempoh sumber bukan pengesahan kemasakan bagi semua saiz ayam atau alat.
+11. Gemburkan nasi dan letakkan ayam di atasnya. Ayam di atas nasi kelihatan dalam bingkai_75.
+12. Pilihan aroma berasap: sumber menyebut menitiskan sedikit minyak pada arang yang telah dibakar dan membiarkan hidangan bertutup selama 5 minit [SEMAK — daripada transkrip audio sahaja; susunan bekas arang tidak dapat disahkan daripada lima bingkai yang dikumpulkan]. Jangan gunakan langkah ini sebagai panduan lengkap mengendalikan arang; elakkan pembakaran arang di ruang tertutup.
+
+### Menyediakan hidangan sampingan
+13. Untuk Salata Arab, potong bawang besar, timun, lada benggala dan tomato menjadi kiub. Gaulkan dengan daun ketumbar yang diracik halus, mengikut kapsyen.
+14. Untuk Salata Hara, kisar tomato, bawang putih, cili hijau, daun ketumbar dan daun pudina dengan sedikit air. Tambahkan garam secukup rasa, mengikut kapsyen.
+15. Hidangkan nasi mandi ayam bersama Salata Arab dan Salata Hara.
+
+## Petua
+- Pembuat menyarankan supaya kuantiti air disesuaikan dengan arahan pada paket beras basmati. Contoh dalam kapsyen ialah 1 cawan beras kepada 1.5 cawan air. Jangan menganggap nisbah contoh itu bersamaan secara tepat dengan sukatan 500 g beras dan 850 ml air; kekalkan panduan paket beras yang digunakan.
+- Laraskan garam mengikut cita rasa seperti dinyatakan dalam kapsyen.
+- Sukatan bahan diambil daripada kapsyen. Teks pada bingkai_15 mengesahkan nama rempah, bukan sukatannya; tiada kuantiti tambahan direka daripada saiz pinggan atau bekas.
+- Transkrip audio dijana secara automatik dan mempunyai beberapa perkataan yang tersalah dengar. Butiran yang hanya terdapat dalam audio ditandakan [SEMAK], khususnya tempoh memasak, suhu pembakaran dan langkah aroma berasap.
+- Video dilaporkan sepanjang 94 saat, audio 93 saat dan transkrip mencapai 94 saat. Perbezaan kecil itu mungkin hanyutan cap masa, bukan bukti kandungan tambahan.
+- Catatan keselamatan tentang kemasakan ayam dan arang ialah peringatan umum, bukan petua yang dipetik daripada pembuat.
+
+## Gambar
+
+Semua lima gambar yang dikumpulkan disertakan di bawah mengikut urutan nama bingkai. Gambar ditangkap mengikut selang video, bukan dipilih mengikut kandungan. Nombor nama fail bukan cap masa dalam saat.
+
+![Bingkai 15 — rempah dengan label nama](../gambar/fb_977815604832628/bingkai_15.jpg)
+
+![Bingkai 35 — bawang dan rempah dalam tumisan](../gambar/fb_977815604832628/bingkai_35.jpg)
+
+![Bingkai 55 — cecair merah ditambah pada nasi](../gambar/fb_977815604832628/bingkai_55.jpg)
+
+![Bingkai 75 — ayam diletakkan di atas nasi](../gambar/fb_977815604832628/bingkai_75.jpg)
+
+![Bingkai 92 — hidangan nasi dan ayam](../gambar/fb_977815604832628/bingkai_92.jpg)
