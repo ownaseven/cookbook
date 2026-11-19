@@ -1,6 +1,6 @@
 # Personal CookBook
 
-Dikemas kini: 2026-11-03 19:57 | Jumlah resepi: 21
+Dikemas kini: 2026-11-19 22:13 | Jumlah resepi: 22
 
 ## Senarai resepi
 
@@ -25,6 +25,7 @@ Dikemas kini: 2026-11-03 19:57 | Jumlah resepi: 21
 19. Nasi Mandi Ayam - ditambah 2026-11-03 19:03
 20. Ayam Gunting Rangup - ditambah 2026-11-03 19:12
 21. Roti Naan dan Ayam Masala - ditambah 2026-11-03 19:57
+22. Pho Ayam Vietnam - ditambah 2026-11-19 22:13
 
 ---
 
@@ -1689,3 +1690,79 @@ Gambar ini ditangkap mengikut selang masa video, bukan dipilih mengikut kandunga
 ![bingkai 55](../gambar/fb_1778969382980723/bingkai_55.jpg)
 ![bingkai 75](../gambar/fb_1778969382980723/bingkai_75.jpg)
 ![bingkai 92](../gambar/fb_1778969382980723/bingkai_92.jpg)
+
+
+---
+
+# Pho Ayam Vietnam
+
+Sumber: https://www.facebook.com/share/v/14f7RMjZoz5/
+Pautan video: https://m.facebook.com/watch/?v=1839053614002799&_rdr
+Pembuat: Jia Le Woh
+Tarikh disimpan: 2026-11-19
+Jenis: Resipi
+Bahasa audio: Bahasa Melayu (transkrip automatik; beberapa perkataan tersalah dengar)
+
+## Bahan
+
+### Kuah
+- Bawang Holland — 1 biji.
+- Halia — 100 g.
+- Bunga lawang — 2 kuntum.
+- Kayu manis — 1 batang.
+- Jintan manis (fennel) — 10 g, mengikut kapsyen; sebutan nama rempah dalam transkrip kurang jelas.
+- Tulang ayam — 2 unit, mengikut kapsyen; saiz atau berat [TIDAK DINYATAKAN].
+- Air panas.
+- Garam.
+- Perasa yang ditranskripsikan sebagai “pak aji” [SEMAK: nama perasa tidak jelas].
+- Sos ikan.
+
+### Mi dan bahan hidangan
+- Dada ayam — 500 g.
+- Mi pho Vietnam (mi beras).
+- Taugeh — disebut dalam audio dan kelihatan pada bingkai_92.jpg.
+- Bawang Holland untuk hidangan.
+- Daun ketumbar.
+- Daun bawang.
+- Limau (lime).
+- Cili merah.
+- Sedikit minyak untuk menggaul mi, mengikut audio.
+
+Catatan sukatan: Selain sukatan yang dinyatakan di atas, kuantiti air, mi, sayuran, bahan hiasan dan perasa [TIDAK DINYATAKAN]. Jumlah bawang untuk hidangan adalah berasingan daripada 1 biji bawang kuah. Tiada anggaran sukatan ditambah kerana gambar tidak memberikan asas ukuran yang mencukupi.
+
+## Langkah
+
+1. Sediakan kuali tanpa minyak. Sangai bawang Holland dan halia sehingga wangi dan sedikit kehitaman.
+2. Masukkan bunga lawang, kayu manis dan jintan manis, kemudian sangai lagi sehingga wangi. Nama jintan dirujuk kepada kapsyen kerana transkrip sebutannya kurang jelas.
+3. Sediakan air panas dalam periuk. Masukkan tulang ayam bersama bahan yang telah disangai.
+4. Biarkan mendidih, kemudian kecilkan api dan reneh selama 1–2 jam [SEMAK: tempoh daripada transkrip audio sahaja].
+5. Rebus dada ayam selama 20 minit sehingga masak, kemudian keluarkan [SEMAK: tempoh daripada transkrip audio sahaja]. Carikkan ayam untuk hidangan. Transkrip tidak menjelaskan dengan pasti sama ada dada ayam direbus dalam kuah yang sama atau secara berasingan.
+6. Rebus mi pho dalam air mendidih selama 6–8 minit [SEMAK: tempoh daripada transkrip audio sahaja]. Keluarkan dan bilas. Transkrip kurang jelas tentang keadaan air bilasan. Gaulkan dengan sedikit minyak.
+7. Tapis kuah jika terdapat sisa atau kotoran. Perasakan dengan garam, perasa yang disebut sebagai “pak aji” [SEMAK] dan sos ikan; sukatan tidak dinyatakan.
+8. Susun mi, taugeh, bawang Holland dan ayam carik di dalam mangkuk. Tuangkan kuah; bingkai_92.jpg menunjukkan kuah ditapis terus ke dalam mangkuk.
+9. Tambahkan daun bawang, daun ketumbar, cili merah dan limau untuk dihidangkan. Jenis limau dirujuk kepada perkataan “lime” dalam kapsyen kerana hujung transkrip kurang jelas.
+
+## Petua
+
+- Sangai bahan aromatik tanpa minyak sehingga wangi dan sedikit kehitaman seperti diterangkan dalam audio.
+- Tapis kuah untuk mengasingkan sisa sebelum dihidangkan.
+- Gaulkan mi dengan sedikit minyak selepas dibilas seperti diterangkan dalam audio.
+- Pembuat menyebut pilihan mi yang didakwa halal dalam audio; status produk atau pensijilan halal tidak disahkan secara bebas.
+
+### Catatan sumber
+
+Sukatan utama diambil daripada kapsyen. Langkah memasak diambil daripada transkrip automatik Bahasa Melayu yang meliputi video kira-kira 98 saat dan dibandingkan dengan semua lima bingkai yang tersedia. Beberapa sebutan transkrip tidak jelas; bahagian yang belum dapat dipastikan ditandakan [SEMAK], bukan ditambah berdasarkan kebiasaan memasak. Gambar tidak memaparkan sukatan bertulis yang boleh digunakan untuk melengkapkan jumlah yang hilang.
+
+## Gambar
+
+Gambar ditangkap mengikut selang masa video, bukan dipilih mengikut kandungan. Nombor fail bingkai bukan cap masa dalam saat. Semua lima gambar yang diperoleh disertakan mengikut urutan.
+
+![Bingkai 15](../gambar/fb_1839053614002799/bingkai_15.jpg)
+
+![Bingkai 35](../gambar/fb_1839053614002799/bingkai_35.jpg)
+
+![Bingkai 55](../gambar/fb_1839053614002799/bingkai_55.jpg)
+
+![Bingkai 75](../gambar/fb_1839053614002799/bingkai_75.jpg)
+
+![Bingkai 92](../gambar/fb_1839053614002799/bingkai_92.jpg)
