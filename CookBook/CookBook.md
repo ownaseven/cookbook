@@ -1,6 +1,6 @@
 # Personal CookBook
 
-Dikemas kini: 2026-11-19 22:13 | Jumlah resepi: 22
+Dikemas kini: 2026-11-20 12:13 | Jumlah resepi: 23
 
 ## Senarai resepi
 
@@ -26,6 +26,7 @@ Dikemas kini: 2026-11-19 22:13 | Jumlah resepi: 22
 20. Ayam Gunting Rangup - ditambah 2026-11-03 19:12
 21. Roti Naan dan Ayam Masala - ditambah 2026-11-03 19:57
 22. Pho Ayam Vietnam - ditambah 2026-11-19 22:13
+23. Nasi Dagang dan Gulai Ikan Tongkol - ditambah 2026-11-20 12:13
 
 ---
 
@@ -1766,3 +1767,89 @@ Gambar ditangkap mengikut selang masa video, bukan dipilih mengikut kandungan. N
 ![Bingkai 75](../gambar/fb_1839053614002799/bingkai_75.jpg)
 
 ![Bingkai 92](../gambar/fb_1839053614002799/bingkai_92.jpg)
+
+
+---
+
+# Nasi Dagang dan Gulai Ikan Tongkol
+
+Sumber: https://www.facebook.com/share/v/19xe5KeNBT/
+Pautan video: https://m.facebook.com/watch/?v=1106318782400099&_rdr
+Pembuat: Hamdan Mubarak
+Tarikh disimpan: 2026-11-19
+Jenis: Resipi
+Bahasa audio: Bahasa Melayu (transkrip automatik; beberapa istilah dan sukatan audio kurang jelas)
+
+## Bahan
+
+### Nasi dagang
+- Beras nasi dagang — 3 cawan (kapsyen tidak nyatakan campuran; audio menyebut campuran beras wangi dan beras pulut [SEMAK]).
+- Santan pekat — 1 cawan.
+- Air — 2 cawan.
+- Bawang merah — 1 biji.
+- Bawang putih — 3 ulas.
+- Halia — 1 inci.
+- Serai — 1 batang.
+- Halba — 1 sudu besar.
+- Garam — 1½ sudu besar.
+- Gula — 1½ sudu besar.
+
+### Gulai ikan tongkol
+- Ikan tongkol — 2 ekor.
+- Asam keping — 5 keping.
+- Gula nisan — 1 keping.
+- Garam — 2 sudu kecil untuk bahan gulai, selain sedikit garam ketika mengukus ikan.
+- Bawang merah — 3 biji.
+- Bawang putih — 5 ulas.
+- Halia — 2 inci.
+- Lengkuas — 2 inci.
+- Kunyit hidup — 2 inci.
+- Cili kisar — 5 sudu besar.
+- Air — secukupnya untuk mengisar bahan.
+- Halba — 1 sudu besar.
+- Rempah Gulai Kawah Mamatok — 3 sudu besar (nama produk mengikut kapsyen/audio).
+- Santan — 300 ml.
+- Air rebusan ikan — 2 cawan, serta sedikit untuk memasak rempah.
+- Kerisik — 2 sudu besar.
+- Cili hijau dan cili padi — sedikit.
+- Minyak untuk menumis — kuantiti [TIDAK DINYATAKAN].
+
+## Langkah
+
+### Nasi dagang
+1. Rendam beras nasi dagang semalaman.
+2. Kukus beras selama 20 minit [SEMAK: tempoh disebut dalam audio sahaja].
+3. Dalam periuk, masukkan santan, air, 1 biji bawang merah, 3 ulas bawang putih, halia, serai, halba, garam dan gula. Masak dengan api perlahan sambil dikacau hingga mendidih. Audio menyebut sukatan garam dan gula sebagai “satu setengah sudu kecil”, tetapi kapsyen menyatakan 1½ sudu besar; ikut kapsyen dan tandakan percanggahan ini [SEMAK].
+4. Gaulkan campuran santan dengan beras yang telah dikukus. Apabila cecair diserap, kukus lagi selama 20 minit [SEMAK: tempoh disebut dalam audio sahaja].
+
+### Gulai ikan tongkol
+5. Kukus ikan tongkol bersama asam keping, gula nisan dan sedikit garam hingga ikan masak. Tempoh mengukus [TIDAK DINYATAKAN]. Asingkan ikan; simpan air rebusan ikan untuk gulai.
+6. Kisar bawang merah, bawang putih, halia, lengkuas, kunyit hidup dan cili kisar dengan air secukupnya.
+7. Panaskan minyak dalam kuali. Masukkan halba dan bahan kisar; tumis sehingga pecah minyak.
+8. Masukkan rempah Gulai Kawah Mamatok dan sedikit air rebusan ikan. Apabila pecah minyak sekali lagi, masukkan santan dan 2 cawan air rebusan ikan.
+9. Masukkan kerisik, ikan tongkol, cili hijau dan cili padi. Perasakan dengan garam; masak seketika. Audio menyebut supaya tidak terlebih garam kerana air rebusan ikan sudah masin.
+10. Hidangkan gulai bersama nasi dagang. Bingkai_92.jpg menunjukkan nasi bersama hirisan buah berulam bercampur sambal; kapsyen/transkrip tidak menamakan atau menyenaraikan bahan ulam/sambal itu [SEMAK].
+
+## Petua
+
+- Ketika memasak campuran santan untuk nasi, audio menyarankan supaya dikacau berterusan hingga mendidih.
+- Berhati-hati menambah garam ke dalam gulai kerana air rebusan ikan mungkin sudah masin.
+- Pembuat menyebut produk rempah dalam audio; dakwaan promosi atau status produk tidak disahkan secara bebas.
+
+### Catatan semakan
+
+Kapsyen ialah rujukan utama untuk sukatan. Audio menyebut beberapa jumlah yang bercanggah atau kurang jelas: garam dan gula nasi dagang (kapsyen 1½ sudu besar, audio kedengaran 1½ sudu kecil); sukatan halba/rempah gulai yang disebut sebagai “sudut” dalam transkrip tetapi kapsyen menyatakan sudu besar; serta 2 sudu kecil garam gulai yang selari dengan kapsyen. Langkah dan tempoh yang hanya disebut dalam audio ditandakan [SEMAK]. Gambar tidak memberikan sukatan tambahan yang boleh dipastikan.
+
+## Gambar
+
+Gambar ditangkap mengikut selang masa video, bukan dipilih mengikut kandungan. Nombor bingkai bukan cap masa dalam saat. Semua lima gambar yang diperoleh disertakan mengikut urutan.
+
+![Bingkai 15](../gambar/fb_1106318782400099/bingkai_15.jpg)
+
+![Bingkai 35](../gambar/fb_1106318782400099/bingkai_35.jpg)
+
+![Bingkai 55](../gambar/fb_1106318782400099/bingkai_55.jpg)
+
+![Bingkai 75](../gambar/fb_1106318782400099/bingkai_75.jpg)
+
+![Bingkai 92](../gambar/fb_1106318782400099/bingkai_92.jpg)
